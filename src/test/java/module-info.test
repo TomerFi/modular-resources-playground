@@ -1,0 +1,5 @@
+--add-modules
+  com.example.module
+
+--add-opens
+  com.example.module/com.example.application=org.junit.platform.commons
